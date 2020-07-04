@@ -1,6 +1,6 @@
 ---
 name: "🐛 Bug report"
-about: Report a reproducible bug or regression
+about: Report a reproducible bug or regression.
 ---
 
 **Describe the bug**
